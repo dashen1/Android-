@@ -1,5 +1,5 @@
-# Android-Souces_Collection
-Mainly for collection android relative github sources.
+# Android-Souces-Collection
+A collection of Android Sources.
 
 ## 架构篇
 [MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture/tree/master)
